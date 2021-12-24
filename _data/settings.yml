@@ -2,7 +2,7 @@
 # General Site Settings
 title: kisscx
 logo: 512.jpg # You can add own logo.
-description: Build a beautiful web & app experience 
+description: Build a Beautiful Web & App Experience 
 
 
 #-------------------------------
@@ -10,7 +10,7 @@ description: Build a beautiful web & app experience
 author:
   name: kisscx
   image: g.svg
-  say-hello: Build a beautiful web & app experience 
+  say-hello: Build a Beautiful Web & App Experience  
   bio: 
 
 #-------------------------------
