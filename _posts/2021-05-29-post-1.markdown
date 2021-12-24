@@ -2,7 +2,7 @@
 layout: post
 title:  Post 1
 date:   2021-12-23 15:01:35 +0300
-image:  512.jpg
+image:  cover.jpg
 tags:   Resources
 ---
 
