@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shop
-permalink: /shop/
+title: Item
+permalink: /styleguide/
 image: 08.jpg
 ---
 
