@@ -2,14 +2,14 @@
 layout: post
 title:  Build-Measure-Learn on eCommerce Seller User Interface
 date:   2018-07-7 15:01:35 +0300
-image:  cover.jpg
+image:  b_wi_cover.jpg
 tags:   ecommerce
 ---
 
 
 ## Challenges
 
-Why this project is challenging? Well. It's impossible to design a product that meets the needs of our users if we don't know our users and the needs they have. So, my objective is to identify the primary seller's profile and achieve an optimal seller experience.
+Why this project is challenging? Well. It's ~~impossible~~ to design a product that meets the needs of our users if we don't know our users and the needs they have. So, my objective is to identify the primary seller's profile and achieve an optimal seller experience.
 
 
 ## User Stories
