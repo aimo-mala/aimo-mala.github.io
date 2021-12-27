@@ -1,23 +1,27 @@
 ---
 layout: post
-title:  Find a connection with the reader
-date:   2018-07-24 15:01:35 +0300
+title:  Build-Measure-Learn on eCommerce Seller User Interface
+date:   2018-07-7 15:01:35 +0300
 image:  cover.jpg
-tags:   Shop
+tags:   ecommerce
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 
-## Are you crazy? I can't swallow that.
+## Challenges
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
+Why this project is challenging? Well. It's impossible to design a product that meets the needs of our users if we don't know our users and the needs they have. So, my objective is to identify the primary seller's profile and achieve an optimal seller experience.
 
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 
-### Why not indeed!
+### User Stories
+
+In the past few years, I was working with some eCommerce and FinTech startups. The problem I always met is lacking UX process in the developing cycle. Oftentimes, UX is being considered as a block or slows down the project. Why did that happen? I think the major reason is all about how to communicate and deploy a proper UX strategy into the organisation. And the most efficient way is to leverage persona into a design workshop and use it EVERYWHERE. Try to encourage the team to think, speak and sleep on a persona when we try to come up with user stories. For example, "Richard would like to use size conversion feature because he is selling shoes across different countries." Using "Richard to instead of "User." And I found it's easier to engage the team in the lengthy brainstorming session.
+
+
+### Build-Measure-Learn And Think-Make-Check
+
+I'd like to use this method by Eric Ries's to interpret how I play around with my team. After we understand what primary sellers profiles are, the next step is BUILD.
+
+### User Stories
 
 Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. I don't 'need' to drink. I can quit anytime I want! Soothe us with sweet lies. Bender?! You stole the atom. You don't know how to do any of those.
 
