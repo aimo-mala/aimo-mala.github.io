@@ -14,7 +14,7 @@ Why this project is challenging? Well. It's ~~impossible~~ to design a product t
 
 ## User Stories
 
-In the past few years, I was working with some eCommerce and FinTech startups. The problem I always met is lacking UX process in the developing cycle. Oftentimes, UX is being considered as a block or slows down the project. Why did that happen? I think the major reason is all about how to communicate and deploy a proper UX strategy into the organisation. And the most efficient way is to leverage persona into a design workshop and use it EVERYWHERE. Try to encourage the team to think, speak and sleep on a persona when we try to come up with user stories. For example, "Richard would like to use size conversion feature because he is selling shoes across different countries." Using "Richard to instead of "User." And I found it's easier to engage the team in the lengthy brainstorming session.
+In the past few years, I was working with some eCommerce and FinTech startups. The problem I always met is lacking UX process in the developing cycle. Oftentimes, UX is being considered as a block or slows down the project. Why did that happen? I think the major reason is all about how to communicate and deploy a proper UX strategy into the organisation. And the most efficient way is to leverage persona into a design workshop and use it EVERYWHERE. Try to encourage the team to think, speak and sleep on a persona when we try to come up with user stories. For example, _"Richard would like to use size conversion feature because he is selling shoes across different countries._" Using "Richard to instead of "User." And I found it's easier to engage the team in the lengthy brainstorming session.
 
 
 ### Build-Measure-Learn And Think-Make-Check
@@ -43,7 +43,7 @@ This is a simple animation on mobile Seller User Interface that I've made it fro
 *Mobile prototype in Framer.js*
 
 
-Then, **~~MEASURE~~**. Design validation is the most important part of my daily work. I always tell the team we shall test every feature as much as we could afford before handing over design documents to engineers. In an agile team framework, time is scarce and we try to keep everyone abreast of developing. By doing so, I bring the rapid evaluation and design process at each sprint or product iteration. We make wireframes and test them upfront in usability software or Google Analytics [(you could check loop11 )](https://www.loop11.com/), I feel it's quite a handy tool to integrate task-based scenarios into mockups.
+Then, **~~MEASURE~~**. Design validation is the most important part of my daily work. I always tell the team we shall test every feature as much as we could afford before handing over design documents to engineers. In an agile team framework, time is scarce and we try to keep everyone abreast of developing. By doing so, I bring the rapid evaluation and design process at each sprint or product iteration. We make wireframes and test them upfront in usability software or Google Analytics(you could check [loop11 )](https://www.loop11.com/), I feel it's quite a handy tool to integrate task-based scenarios into mockups.
 
 Last step, **~~LEARNING~~**. By continuing to collect user feedback and analysing the user's path, we revise the design back and forth until the optimal usability goal is achieved.
 
