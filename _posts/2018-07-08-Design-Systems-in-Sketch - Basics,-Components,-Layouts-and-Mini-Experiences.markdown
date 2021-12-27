@@ -61,7 +61,7 @@ The common colours of a design system contain no more than ~~3~~ primaries to re
 
 A best practice of typographic design is avoiding the excessive number of fonts. We only use the one typeface - Artifakt, which is reflected product personality - sophisticated, technical and beautiful without decoration. And there is a good [tool](https://type-scale.com/) to measure the size of the font.
 
-![)]({{ site.baseurl }}/images/b_wi_ask_3.png)
+![)]({{ site.baseurl }}/images/b_ask_3.png)
 
 
 ### Spacing
@@ -100,11 +100,11 @@ In my humble opinion, a Design System is not equivalent to a Pattern Literary. M
 
 ## References:
 
-Human Interface Guide in IOS
-[Apple design resources](https://developer.apple.com/design/resources/)
-DesignBetter.co
-[Space in design system](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
-A comprehensive design guide to design systems
-[Adobe symbols](https://helpx.adobe.com/illustrator/using/symbols.html)
-Sketch literary 
-Atomic design/ Brad Frost
+* Human Interface Guide in IOS
+* [Apple design resources](https://developer.apple.com/design/resources/)
+* DesignBetter.co
+* [Space in design system](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
+* A comprehensive design guide to design systems
+* [Adobe symbols](https://helpx.adobe.com/illustrator/using/symbols.html)
+* Sketch literary 
+* Atomic design/ Brad Frost
