@@ -31,10 +31,10 @@ Of course, to build a user-centric flow in an organisation, we cannot continue t
 **The goal of this project aims at 3 aspects:**
 
 * By encouraging customers to “Sign In” our system, our agent would easily get a clear seller profile from a registered email.
-* By recommending articles from help centre, customers would have chance to find solutions on their own without reaching us. On the other hand, it’s helping to reduce the contact rate.
+* By recommending articles from help centre, customers would have chance to find solutions on their own without reaching us. On the other hand, it’s helping to ~~reduce~~ the contact rate.
 * Locate the user ~~path.~~ I think this benefits most of agents, because oftentimes, they need to ask customers back and forth at several rounds until they know what they’re exactly dealing with. It literally costs time and money as it slows the service down.
 
 
 ## Product design is not all about pixels
 
-Interestingly, I quite often being asked ~~”can you do graphic design as well?”~~ Most of time, UX role is considered to be ~~interchangeable~~ with the role of a UI designer. Yes! I design pixels as well, but I would go further. In UI stage, I provide an advanced visual presentation with a step-by-step screen flow. Besides, I also animate UI elements as I want to enable the team to think over the logic of interaction, layout, and transitions and get that view of life-like interaction of screens. This [article]((../posta/2018-07-07-Build-Measure-Learn-on-eCommerce-Seller-User-Interface.markdown)) illustrated in detail how to interact with stakeholders through a series of animated wireframes or UI.
+Interestingly, I quite often being asked ~~”can you do graphic design as well?”~~ Most of time, UX role is considered to be ~~interchangeable~~ with the role of a UI designer. Yes! I design pixels as well, but I would go further. In UI stage, I provide an advanced visual presentation with a step-by-step screen flow. Besides, I also animate UI elements as I want to enable the team to think over the logic of interaction, layout, and transitions and get that view of life-like interaction of screens. This [article]((../blob/main/_posts/2017-07-11-Build%20a%20user-centric-design.markdown)) illustrated in detail how to interact with stakeholders through a series of animated wireframes or UI.
