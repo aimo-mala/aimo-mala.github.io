@@ -2,7 +2,7 @@
 layout: post
 title:  Build a user-centric design
 date:   2017-07-11 15:01:35 +0300
-image:  b_wi_cover.jpg
+image:  b_wi_cover_1.png
 tags:   ecommerce
 ---
 
@@ -19,7 +19,7 @@ _“we need to reform our webform design for a better customer experience.” �
 
 In fact, I took a couple of months to define this working flow in my organization and this is not something that I will ever achieve alone. But I begin this process and in doing so adjust it consistently. I found it has impacted on my team and they somehow started to understand what it means to be user-centric.
 
-![)]({{ site.baseurl }}/images/b_wi_2.png)
+![)]({{ site.baseurl }}/images/b_wi_4.png)
 *Wireframing your concept in Sketch (example: Mobile Seller User Interface)*
 
 
