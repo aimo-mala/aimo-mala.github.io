@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
+date:   2000-05-29 18:05:55 +0300
 image:  cover.jpg
 tags:   Shop
 ---
