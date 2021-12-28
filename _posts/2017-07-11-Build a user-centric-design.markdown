@@ -26,7 +26,7 @@ In fact, I took a couple of months to define this working flow in my organisatio
 ## Get on board with stackholders — Business goals
 
 
-Of course, to build a user-centric flow in organization, we cannot continue to be the lone wolf. For that, we need to unite the shareholders around a common goals and causes. At the same time, we need to make sure business goals meet customer needs.
+Of course, to build a user-centric flow in an organisation, we cannot continue to be the lone wolf. For that, we need to unite the stakeholders around common goals and causes. At the same time, we need to make sure business goals meet customer needs.
 
 **The goal of this project aims at 3 aspects:**
 
@@ -37,4 +37,4 @@ Of course, to build a user-centric flow in organization, we cannot continue to b
 
 ## Product design is not all about pixels
 
-Interestingly, I quite often being asked ” can you do graphic design as well?” Most of time, UX role is considered as an interchangeable with the role of a UI designer. Yes! I design pixels as well, but I would go further. In UI stage, I provide the complex of visual presentation with step-by-step screen flow. Besides, I also animate UI elements as I want to enable the team to think over the logic of interaction, layout, and transitions and get that view of life-like interaction of screens.
+Interestingly, I quite often being asked ~~”can you do graphic design as well?”~~ Most of time, UX role is considered to be ~~interchangeable~~ with the role of a UI designer. Yes! I design pixels as well, but I would go further. In UI stage, I provide an advanced visual presentation with a step-by-step screen flow. Besides, I also animate UI elements as I want to enable the team to think over the logic of interaction, layout, and transitions and get that view of life-like interaction of screens. This [article]((../posta/2018-07-07-Build-Measure-Learn-on-eCommerce-Seller-User-Interface.markdown)) illustrated in detail how to interact with stakeholders through a series of animated wireframes or UI.
