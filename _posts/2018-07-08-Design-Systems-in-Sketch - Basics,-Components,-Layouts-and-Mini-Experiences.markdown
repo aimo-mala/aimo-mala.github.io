@@ -10,8 +10,6 @@ Hey there! I'm writing this article to elaborate on how can we ~~craft~~ a user 
 
 ## What is a design system?
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
-
 A lot has been said about design systems, but more focus on a collection of assets and components for colour, typography, textures, girds and the like. They are ~~pattern library~~ and all of the reusable UI elements are visually consistent, but that ~~doesn't~~ mean the assembled result will lead to a meaningful experience in my product. This type of thinking is certainly important, but I am slightly interested in what my user interface is comprised of and what I can construct the design systems in a systematic way when designers collaborate together with me in different time zones. (This is my current situation)
 
 In searching for this answer, I am wrapping up a definition of the Human Interface Guideline from my current project - **3D design software on manufacturing and simulation.**
