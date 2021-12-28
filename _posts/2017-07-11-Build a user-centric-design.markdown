@@ -17,7 +17,7 @@ _“we need to reform our webform design for a better customer experience.” �
 
 ## A UX working flow
 
-In fact, I took a couple of months to define this working flow in my organization and this is not something that I will ever achieve alone. But I begin this process and in doing so adjust it consistently. I found it has impacted on my team and they somehow started to understand what it means to be user-centric.
+In fact, I took a couple of months to define this working flow in my organisation and this is not something that I will ever achieve alone. But I begin this process and in doing so adjust it consistently. I found it has ~~impacted~~ on my team and they somewhat started to understand what it means to be user-centric.
 
 ![)]({{ site.baseurl }}/images/b_wi_4.png)
 *Wireframing your concept in Sketch (example: Mobile Seller User Interface)*
