@@ -2,7 +2,7 @@
 layout: post
 title:  Build-Measure-Learn on eCommerce Seller User Interface
 date:   2018-07-7 15:01:35 +0300
-image:  b_wi_cover.jpg
+image:  b_wi_cover_1.jpg
 tags:   ecommerce
 ---
 
