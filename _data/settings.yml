@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: kisscx
-logo: 512.jpg # You can add own logo.
+logo: logo.svg # You can add own logo.
 description: Build a Beautiful Web & App Experience 
 
 
