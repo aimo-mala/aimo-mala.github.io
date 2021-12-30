@@ -2,8 +2,8 @@
 layout: post
 title:  Build a user-centric design
 date:   2017-07-11 15:01:35 +0300
-image:  b_wi_cover_2.jpg
-tags:   ecommerce
+image:  b_wi_cover_2.jpg	
+tags:   e-Commerce
 ---
 
 I actually hate this title of being UX designer, it sounds the future of UX at my company only lies in my hands. Nobody else is going to make it happen. It only falls to me, which is not entirely true!! As matter of fact, I’m designer with no power and no authority and I believe that I don’t need those things to bring about change. I just need determination, perseverance and the willings to step out of my comfort zone.

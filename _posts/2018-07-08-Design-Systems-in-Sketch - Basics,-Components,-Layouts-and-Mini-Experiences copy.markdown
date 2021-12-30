@@ -3,7 +3,7 @@ layout: post
 title:  Design Systems in Sketch — Basics, Components, Layouts and Mini-Experiences
 date:   2018-07-08 15:01:35 +0300
 image:  cover.jpg
-tags:   ecommerce
+tags:   e-Commerce
 ---
 
 Hey there! I'm writing this article to elaborate on how can we ~~craft~~ a user interface design through design systems, rather than crafting a just pretty collection of web pages. And yes! Sketch! I'm zealous in my effort to get this design system by using ~~Sketch~~. But, first, let's dive into the design system.
