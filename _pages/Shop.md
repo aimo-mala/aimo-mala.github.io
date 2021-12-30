@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shop
+title: 
 permalink: /shop/
 image: 08.jpg
 ---
