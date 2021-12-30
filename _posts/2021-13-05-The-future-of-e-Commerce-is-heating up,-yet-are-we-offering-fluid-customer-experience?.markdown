@@ -9,10 +9,10 @@ tags:   Startup, e-Commerce
 As ever, an exec. of startup has her/his own vision and planning for designing a e-commerce service how people will shop. In 2005 I was ~~shadowing~~ along a local seller how to post his domestic items to our Yahoo! audit platform while I was there as a researcher back then. In 2021, I'm ~~leading~~ to design a ~~cross-border e Commerce~~ service for a freight forwarding shipping startup as offering their customers to shop & ship at globe when some of brands will ~~not~~ ship to their regions/countries. This ever-changing eCommerce industry never ceases to surprise me, and there's always a LOT to learn! 
 
 
-Each startup wants to ~~scale up~~ and generate more revenues. The foundation of our service is freight forwarding shipping, to ensure a ~~fluid~~ declaration & consolidation service, as it goes. But how to generate more services and revenues? Executives started to plan on shopping concierge, marketplace, cashback picks, coupons, one-click add to cart extension as we ~~forge~~ ahead. That does sound exciting,  and yet are we offering a fluid service experience? e-Commerce startups offers broader service options, it also made experiences more time-consuming, ~~fragmented~~ and ~~harder~~ to navigate.
+Each startup wants to ~~scale up~~ and generate more revenues. The foundation of our service is freight forwarding shipping, to ensure a ~~fluid~~ declaration & consolidation service, as it goes. But how to generate more services and revenues? Executives started to plan on shopping concierge, marketplace, cashback picks, coupons, one-click add to cart extension as we ~~forge~~ ahead. That does sound exciting,  and yet are we offering a fluid service experience? When a comprehensive ~~array~~ of services options have been offered, it also made customer experiences more time-consuming, ~~fragmented~~ and harder to navigate.
 
 
-> e-Commerce startups offers broader service options, it also made experiences more time-consuming, ~~fragmented~~ and ~~harder~~ to navigate.
+> When a comprehensive array of services options have been offered, it also made customer experiences more time-consuming, fragmented and harder to navigate.
 
 ![)]({{ site.baseurl }}/images/ insert-uir-pic-here.png)
 
