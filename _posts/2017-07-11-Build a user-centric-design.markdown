@@ -2,7 +2,7 @@
 layout: post
 title:  Build a user-centric design
 date:   2017-07-11 15:01:35 +0300
-image:  b_wi_cover_1.jpg
+image:  b_wi_cover_2.jpg
 tags:   ecommerce
 ---
 
