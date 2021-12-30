@@ -17,6 +17,9 @@ Each startup wants to ~~scale up~~ and generate more revenues. The foundation of
 ![)]({{ site.baseurl }}/images/ insert-uir-pic-here.png)
 
 
+##  5 key metrics 
+
+
 As the product roadmap is ~~evolving~~, design experts should heavily jump in and helping to ~~shape~~ the future of e Commerce ~~what~~ it should look like or ~~how~~ it will be as we're all suffering pandemic. However, I've only set up no more ~~5~~ key metrics until the result is progressing in this ~~startup,~~
 
 * Deep diving in a **~~profile~~** of cross-border shopper. There're a lot of reason why they go overseas shopping, for instance, some stores ~~cannot~~ support the local credits
@@ -36,6 +39,5 @@ As the product roadmap is ~~evolving~~, design experts should heavily jump in an
 * [Future of eCommerce 2021 by Beeketing ](2019/#:~:text=New%20studies%20projected%20that%20the,to%20%244.9%20trillion%20in%202021.&text=In%20fact%2C%20by%202021%2C%20it,the%20total%20global%20retail%20sales.)
 * [Amazon Alexa (paint a picture for voice ecommerce)](https://www.amazon.com/alexa-voice-shopping/b?ie=UTF8&node=14552177011)
 * [eCommerce for artists by 2019](https://productviz.com/ecommerce-2019/)
-* A comprehensive design guide to design systems
 * [Statista - eCommerce fact &  stats  b y 2021](https://www.statista.com/topics/871/online-shopping/#dossierSummary)
 * [Earn amidst Covid-19 by Shopbase (DropShipping, Print-On-Demand, White label)](ttps://www.shopbase.com/blog/vn/dropshipping-case-study-make-money-during-pandemic/?utm_source=cs&utm_medium=bktblog&utm_campaign=mary-case-stud)
