@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-permalink: /shop/
+title: Design System 
+permalink: /Design System/
 image: 08.jpg
 ---
 
