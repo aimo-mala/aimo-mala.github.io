@@ -2,7 +2,7 @@
 layout: post
 title:  The future of e-Commerce is heating up, yet are we offering fluid customer experience?
 date:   2021-05-13 15:01:35 +0300
-image:  cover.jpg
+image:  cover_ecomm.jpg
 tags:   Startup, e-Commerce
 ---
 
@@ -17,10 +17,10 @@ Each startup wants to ~~scale up~~ and generate more revenues. The foundation of
 ![)]({{ site.baseurl }}/images/ insert-uir-pic-here.png)
 
 
-##  5 key metrics 
+##  Key metrics 
 
 
-As the product roadmap is ~~evolving~~, design experts should heavily jump in and helping to ~~shape~~ the future of e Commerce ~~what~~ it should look like or ~~how~~ it will be as we're all suffering pandemic. However, I've only set up no more ~~5~~ key metrics until the result is progressing in this ~~startup,~~
+As the product roadmap is ~~evolving~~, design experts should heavily jump in and helping to ~~shape~~ the future of e Commerce ~~what~~ it should look like or ~~how~~ it will be as we're all suffering pandemic. However, I've set up no more 10 key metrics until the result is progressing in this ~~startup,~~
 
 * Deep diving in a **~~profile~~** of cross-border shopper. There're a lot of reason why they go overseas shopping, for instance, some stores ~~cannot~~ support the local credits
 * Don't build ~~running-around~~ service. It ~~exhausts~~ your customers if they have gone at greater length only to look for coupons. 

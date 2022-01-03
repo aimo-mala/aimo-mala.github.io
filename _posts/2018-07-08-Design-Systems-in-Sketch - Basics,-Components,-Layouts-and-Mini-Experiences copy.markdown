@@ -2,7 +2,7 @@
 layout: post
 title:  Design Systems in Sketch — Basics, Components, Layouts and Mini-Experiences
 date:   2018-07-08 15:01:35 +0300
-image:  cover.jpg
+image:  cover_ds.jpg
 tags:   e-Commerce
 ---
 
