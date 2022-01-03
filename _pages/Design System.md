@@ -5,6 +5,33 @@ permalink: /Design System/
 image: 
 ---
 
+
+***
+
+### Images
+
+![]({{site.baseurl}}/images/cover_ds.jpg)
+*[Design System](https://aimo-mala.github.io/2018/07/08/Design-Systems-in-Sketch-Basics,-Components,-Layouts-and-Mini-Experiences-copy/) *
+
+***
+
+
+***
+
+### Images
+
+![]({{site.baseurl}}/images/cover_ds.jpg)
+*[Design System](https://aimo-mala.github.io/2018/07/08/Design-Systems-in-Sketch-Basics,-Components,-Layouts-and-Mini-Experiences-copy/) *
+
+***
+
+
+
+
+
+
+
+
 A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
 ***
@@ -87,7 +114,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ### Images
 
-![]({{site.baseurl}}/images/09.jpg)
+![]({{site.baseurl}}/images/cover_ds.jpg)
 *Backyard*
 
 ***
