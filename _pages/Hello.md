@@ -16,7 +16,7 @@ Chat with our Lead Experience Designer. Drop her a line!
 
 **yuting_o[at]kisscx.com**
 
-![)]({{ site.baseurl }}/images/cover_bizcard.jpg)
+
 
 
 
