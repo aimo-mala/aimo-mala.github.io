@@ -12,7 +12,7 @@ The Kisscx team is deeply skilled in Visual & experience design and development,
 
 ### Want to talk about a project or partnership?
 
-Chat with our Lead Experience Designer. Drop her a line!
+Chat with Yuting, our Lead Experience Designer. Drop her a line!
 
 **yuting_o[at]kisscx.com**
 
