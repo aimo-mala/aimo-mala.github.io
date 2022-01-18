@@ -2,7 +2,7 @@
 layout: page
 title: Hello:-)
 permalink: /Contact/
-image: cover_ds.jpg
+image: cover_contact.jpg
 ---
 
 The Kisscx team is deeply skilled in Visual & experience design and development, but our super power won’t be found in a list of validating prototypes or programming languages. Our strength lies in our ability to work closely with startups to define, strategise, and implement solutions that yield meaningful yet beautiful results. 
