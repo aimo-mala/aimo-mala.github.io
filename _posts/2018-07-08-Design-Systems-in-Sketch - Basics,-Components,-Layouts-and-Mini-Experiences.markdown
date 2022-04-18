@@ -8,9 +8,10 @@ tags:   e-Commerce
 
 Hey there! I'm writing this article to elaborate on how can we ~~craft~~ a user interface design through design systems, rather than crafting a just pretty collection of web pages. And yes! Sketch! I'm zealous in my effort to get this design system by using ~~Sketch~~. But, first, let's dive into the design system.
 
+
 ## What is a design system?
 
-A lot has been said about design systems, but more focus on a collection of assets and components for colour, typography, textures, girds and the like. They are ~~pattern library~~ and all of the reusable UI elements are visually consistent, but that ~~doesn't~~ mean the assembled result will lead to a meaningful experience in my product. This type of thinking is certainly important, but I am slightly interested in what my user interface is comprised of and what I can construct the design systems in a systematic way when designers collaborate together with me in different time zones. (This is my current situation)
+A lot has been said about design systems, but more focus on a collection of assets and components for colour, typography, textures, girds and the like. They are ~~pattern library~~ and all of the reusable UI elements are visually consistent, but that ~~doesn't~~ mean the assembled result will lead to a meaningful experience in my product. This type of thinking is certainly important, but I am slightly interested in what my user interface is comprised of and what I can construct the design systems in a systematic way when designers collaborate together with me in different time zones. (This is my current situation - Generative Design engineering software using by millions of ADSK customers. As experiences across the features continue to merge, I focus on common customer voice and visual language. )
 
 In searching for this answer, I am wrapping up a definition of the Human Interface Guideline from my current project - **3D design software on manufacturing and simulation.**
 
