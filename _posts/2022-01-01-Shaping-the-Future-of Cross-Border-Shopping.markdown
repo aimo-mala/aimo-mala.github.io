@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2000-05-29 18:05:55 +0300
-image:  cover_others.jpg
-tags:   Shop
+title:  "Shaping the Future of Cross-Border Shopping"
+date:   2022-01-01 18:05:55 +0300
+image:  b_bs_cover.png
+tags:   Startup, e-Commerce
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
