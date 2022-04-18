@@ -6,7 +6,7 @@ image:  cover_bs.jpg
 tags:   Startup, e-Commerce
 ---
 
-The startup we've worked with is based East Asia, servicing their customers effortlessly to shop and ship with the global brands which cannot operate in their home country/region. Their ~~freight forwarding~~ services & warehouses cover the globe sprawling from Asia, Europe, the UK to the USA. They wanted to revamp their responsive website for 10 regions/countries, and also to build native IOS/Android apps with a tight deadline. 
+The startup we've worked with is servicing their customers effortlessly to shop and ship with the global brands which cannot operate in their home country/region. Their ~~freight forwarding~~ services & warehouses cover the globe sprawling from Asia, Europe, the UK to the USA. They wanted to revamp their responsive website for 10 regions/countries, and also to build native IOS/Android apps with a tight deadline. 
 
 In order to get the design right, we sent surveys to hundreds of our customers through Intercom, interviewed with Customer Support who are engaging with customers on a daily basis, and dived into Google analytics/Hotjar. We also scoured popular material themes to find the most adaptable material design that required teams to rethink collaboration when it comes to building a cross-platform product. By gathering all information together has made me realise that how important it is of being communicate effectively across remote teams during pandemic life, and yet, a well-defined design system as we forge ahead. 
 
