@@ -11,7 +11,7 @@ The startup we've worked with is servicing their customers effortlessly to shop 
 In order to get the design right, we sent surveys to hundreds of our customers through Intercom, interviewed with Customer Support who are engaging with customers on a daily basis, and dived into Google analytics/Hotjar. We also scoured popular material themes to find the most adaptable material design that required teams to rethink collaboration when it comes to building a cross-platform product. By gathering all information together has made me realise that how important it is of being communicate effectively across remote teams during pandemic life, and yet, a well-defined design system as we forge ahead. 
 
 
-##  Design breif
+##  Design brief
 
 ### Problems 
 
