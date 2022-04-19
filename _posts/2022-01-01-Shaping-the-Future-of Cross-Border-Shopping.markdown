@@ -33,10 +33,10 @@ Our hypotheses were that if apps &amp; revamped website successfully launched, w
 
 ##  UI/Experience  solutions
 
-We've been working on this website revamping  & app for 10-12 months, and has rolled out  MVP in 2021.  It does feel impossible while looked back the tight deadline as we were being given. More impotently, we're glad that answered to the satisfaction to our client. Besides, the UI style guide I've created that benefits CTO/CEO that they can easily & effectively communicate with his PM/PO or other team members which have a little knowledge on design and developments, but yet they now speak one UI language. At next phase, we've received a lot of requests regarding social e-commerce that could attract more content sharing. Eventually, cross-border shipping should be as easy as ~~domestic.~~ 
+We've been working on this website revamping  & app for 10-12 months, and has rolled out  MVP in 2021.  It does feel impossible while looked back the tight deadline as we were being given. More impotently, we're glad that answered the satisfaction to our client. Besides, the UI style guide I've created benefits CTO/CEO that they can easily & effectively communicate with his PM/PO or other team members which have a little knowledge on design and developments, but yet they now speak one UI language. At next phase, we've received a lot of requests regarding social e-commerce that could attract more content sharing. Eventually, cross-border shipping should be as easy as ~~domestic.~~ 
 
 And here is what we concluded for the final design solution:
 
-* Simplified declaration & consolidation process with a clear ~~form ~~design that prevents customers from learning difficult shipping terminologies, increasing the speed by auto-fill and clarification with real-time error validations. 
+* Simplified declaration & consolidation process with a clear ~~form~~ design that prevents customers from learning difficult shipping terminologies, increasing the speed by auto-fill and clarification with real-time error validations. 
 *  Easy & desirable ~~app~~ design streamlined shipping/shopping experience by restructuring the work flows, for example, made customers feel easier to track where their parcels are at, and also always being notified timely when there's an action required. 
 * Guiding internal (stakeholders) & external customers ~~speak~~ one UI language through a well-defined style guide, which saving the developing time and yet expediting the time to market.
