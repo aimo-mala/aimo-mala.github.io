@@ -33,7 +33,7 @@ Our hypotheses were that if apps &amp; revamped website successfully launched, w
 
 ##  UI/Experience  solutions
 
-We've been working on this website revamping  & app for 10-12 months, and has rolled out  MVP in 2021.  It does feel impossible while looked back the tight deadline as we were being given. More impotently, we're glad that answered the satisfaction to our client. Besides, the UI style guide I've created benefits CTO/CEO that they can easily & effectively communicate with his PM/PO or other team members which have a little knowledge on design and developments, but yet they now speak one UI language. At next phase, we've received a lot of requests regarding social e-commerce that could attract more content sharing. Eventually, cross-border shipping should be as easy as ~~domestic.~~ 
+We've been working on this website revamping  & app for 10-12 months, and has rolled out  MVP in 2021.  It does feel impossible while looked back the tight deadline as we were being given. More impotently, we're glad that answered the satisfaction to our client. Besides, the UI style guide I've created benefits CTO/CEO that they can easily & effectively communicate with their PM/PO or other team members which have a little knowledge on design and developments, but yet they now speak one UI language. At next phase, we've received a lot of requests regarding social e-commerce that could attract more content sharing. Eventually, cross-border shipping should be as easy as ~~domestic.~~ 
 
 And here is what we concluded for the final design solution:
 
