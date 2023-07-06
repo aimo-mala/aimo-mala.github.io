@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shaping the Future of Cross-Border Shopping"
+title:  "Shaping the Cross-Border Shipping & Shopping"
 date:   2022-01-01 18:05:55 +0300
 image:  cover_bs.jpg
 tags:   Startup, e-Commerce
