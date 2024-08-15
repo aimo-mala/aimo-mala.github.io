@@ -2,7 +2,7 @@
 layout: post
 title:  "Feel breezy with a decentralised on-chain transaction"
 date:   2000-01-01 18:05:55 +0300
-image:  cover_bs.jpg
+image:  cover_w3.jpg
 tags:   Startup, web3.0
 ---
 
