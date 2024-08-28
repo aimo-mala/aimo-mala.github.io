@@ -71,7 +71,7 @@ Chain/Account is especially important for multi-chain swap. A consistent behavio
 
 ## Recap 
 
-These UI principles plays a vital role in the UIUX of the effective web3.0 app. This improves readability, pays attention to the highlighted information, and effectively delivers messages. With this practice can turn the complex data into clear and actionable information, more importantly, a clear UI can help the users learn quickly and feeling lost in the crypto space.
+These UI principles plays a vital role in the UIUX of the effective web3.0 app. This improves readability, pays attention to the highlighted information, and effectively delivers messages. With this practice can turn the complex data into clear and actionable information, more importantly, a clear UI can help the users learn quickly and feeling not lost in the crypto space.
 
 
 
