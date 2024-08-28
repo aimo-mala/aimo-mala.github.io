@@ -69,7 +69,7 @@ Payment and transaction history is a critical aspect of crypto trading. Using co
 Chain/Account is especially important for multi-chain swap. A consistent behaviour of switching account/chain ensures that users can easily switch between different chain/accounts. Using its original chain/token colour can help easily to differentiate quickly. This approach is especially effective in dApps where users usually trade with their assets directly stored from their wallet.
 
 ![)]({{ site.baseurl }}/images/token_banner_1.png)
-*It contributes the portion of revenues with a multi-chain feature supported / Illustrated by kisscx.com/*
+*Illustrated by kisscx.com*
 
 ## Recap 
 
