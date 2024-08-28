@@ -6,13 +6,13 @@ image:  cover_w3.jpg
 tags:   Startup, web3.0
 ---
 
-Building a decentralised exchange app is meant to be more lean, intuitive and yet to offer a streamlined experience, which is not only for the existing DeFi/Wallet users but also to those newcomers who just delve into crypto space. The experience challenge in web 3.0 is more demanding ever than it was for web 2.0, hence, to disambiguate the piles of uncertainty in a journey from exchange rate discovery to order has been one of the key business interests.
+&nbsp;&nbsp;&nbsp;&nbsp;TBuilding a decentralised exchange app is meant to be more lean, intuitive and yet to offer a streamlined experience, which is not only for the existing DeFi/Wallet users but also to those newcomers who just delve into crypto space. The experience challenge in web 3.0 is more demanding ever than it was for web 2.0, hence, to disambiguate the piles of uncertainty in a journey from exchange rate discovery to order has been one of the key business interests.
 
 Disambiguate, how? First, let's frame a challenge.
 
 ## The challenge 
 
-One of the first thing you'd do as a team is to establish what major issue is? who are we going to serve? and how are we going to serve. In this case, it's evident that a customer meets several frictions from quote, review, permit to order submitted. Next, let's brake down into chunk of user stories as follows.
+&nbsp;&nbsp;&nbsp;&nbsp;TOne of the first thing you'd do as a team is to establish what major issue is? who are we going to serve? and how are we going to serve. In this case, it's evident that a customer meets several frictions from quote, review, permit to order submitted. Next, let's brake down into chunk of user stories as follows.
 
 
 * Instant multi-chain swap - the final price should be the same as expected
@@ -30,48 +30,48 @@ Too soon? Not if the 'pain point' has been known that's impossible to get the jo
 
 A well-designed UI layout can improve readability, address important information, and create a visually appealing user interface, hence, the strategic use of UI principles can: 
 
-### I. Enhancing readability
+#### I. Enhancing readability
 
-A typical trading screen contains a lot of data, from Token pricing and buy/sell quantity to real-time exchange rate and trading fee. The existing of trading screen is lacking of intuition, for example, the existing trading layout is horizontally that clashes with a user who usually navigating info vertically, so the revisit the trading layout is imperative.
-
-
-### II. Building a visually appealing interface.
-
-An aesthetic UI can enhance user experience and encourage regular use. Harmonious colour schemes, and some basic laws that can help a user understand how trading works. This is especially important for crypto newcomers, for example, for existing wallet users can often see different colours on buttons, tooltips, modals etc across mobile and website, which can hamper for a user who usually trades across platform. 
+&nbsp;&nbsp;&nbsp;&nbsp;TA typical trading screen contains a lot of data, from Token pricing and buy/sell quantity to real-time exchange rate and trading fee. The existing of trading screen is lacking of intuition, for example, the existing trading layout is horizontally that clashes with a user who usually navigating info vertically, so the revisit the trading layout is imperative.
 
 
-### III Categorisation & highlight key information
+#### II. Building a visually appealing interface.
 
-Card/colour can be used to categorised and differentiate sections a trading/order review screen, for example, the existing order review is cluttered with information from received token quantity to gas fee and trading fee.
+&nbsp;&nbsp;&nbsp;&nbsp;TAn aesthetic UI can enhance user experience and encourage regular use. Harmonious colour schemes, and some basic laws that can help a user understand how trading works. This is especially important for crypto newcomers, for example, for existing wallet users can often see different colours on buttons, tooltips, modals etc across mobile and website, which can hamper for a user who usually trades across platform. 
+
+
+#### III Categorisation & highlight key information
+
+&nbsp;&nbsp;&nbsp;&nbsp;TCard/colour can be used to categorised and differentiate sections a trading/order review screen, for example, the existing order review is cluttered with information from received token quantity to gas fee and trading fee.
 
 
 ## Key components & guidelines
 
-### Tokens 
+#### Tokens 
 
-When designing the token section of your wallet, the main goal is to clearly present your assets and transaction history. Using cards with neutral background to contain related Token attributes, such as sell/buy quantity. For managing chain and transaction, using colour to present different types of transactions can be very helpful.
+&nbsp;&nbsp;&nbsp;&nbsp;TWhen designing the token section of your wallet, the main goal is to clearly present your assets and transaction history. Using cards with neutral background to contain related Token attributes, such as sell/buy quantity. For managing chain and transaction, using colour to present different types of transactions can be very helpful.
 
-### Permit & approval
+#### Permit & approval
 
-For permit & approval, the app can display a series of interactions through modals. Using progress indicator can help a user understand where they're at and what the next step is. A well-design conversation flow is critical here to avoid the confusion. 
+&nbsp;&nbsp;&nbsp;&nbsp;TFor permit & approval, the app can display a series of interactions through modals. Using progress indicator can help a user understand where they're at and what the next step is. A well-design conversation flow is critical here to avoid the confusion. 
 
-### Fee
+#### Fee
 
-Gas fees work as payment for network validators for processing transactions and securing blockchain. Using colour-code alerts/texts can represent the low/high trading metrics depending on trading complexity.
+&nbsp;&nbsp;&nbsp;&nbsp;TGas fees work as payment for network validators for processing transactions and securing blockchain. Using colour-code alerts/texts can represent the low/high trading metrics depending on trading complexity.
 
-### Payment & transaction history
+#### Payment & transaction history
 
-Payment and transaction history is a critical aspect of crypto trading. Using colour-coded messages, such as, pending, completed, failed can reduce cognitive load and quickly focus on the key information.
+&nbsp;&nbsp;&nbsp;&nbsp;TPayment and transaction history is a critical aspect of crypto trading. Using colour-coded messages, such as, pending, completed, failed can reduce cognitive load and quickly focus on the key information.
 
 
-### Chain/Account 
+#### Chain/Account 
 
-Chain/Account is especially important for multi-chain swap. A consistent behaviour of switching account/chain ensures that users can easily switch between different chain/accounts. Using its original chain/token colour can help easily to differentiate quickly. This approach is especially effective in dApps where users usually trade with their assets directly stored from their wallet.
+&nbsp;&nbsp;&nbsp;&nbsp;TChain/Account is especially important for multi-chain swap. A consistent behaviour of switching account/chain ensures that users can easily switch between different chain/accounts. Using its original chain/token colour can help easily to differentiate quickly. This approach is especially effective in dApps where users usually trade with their assets directly stored from their wallet.
 
 
 ## Recap 
 
-These UI principles plays a vital role in the UIUX of the effective web3.0 app. This improves readability, pays attention to the highlighted information, and effectively delivers messages. With this practice can turn the complex data into clear and actionable information, more importantly, a clear UI can help the users learn quickly and feeling lost in the crypto space.
+&nbsp;&nbsp;&nbsp;&nbsp;TThese UI principles plays a vital role in the UIUX of the effective web3.0 app. This improves readability, pays attention to the highlighted information, and effectively delivers messages. With this practice can turn the complex data into clear and actionable information, more importantly, a clear UI can help the users learn quickly and feeling lost in the crypto space.
 
 
 
