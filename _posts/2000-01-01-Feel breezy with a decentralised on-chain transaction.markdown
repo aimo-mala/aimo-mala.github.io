@@ -40,7 +40,7 @@ A typical trading screen contains a lot of data, from Token pricing and buy/sell
 An aesthetic UI can enhance user experience and encourage regular use. Harmonious colour schemes, and some basic laws that can help a user understand how trading works. This is especially important for crypto newcomers, for example, for existing wallet users can often see different colours on buttons, tooltips, modals etc across mobile and website, which can hamper for a user who usually trades across platform. 
 
 
-#### :::tip Categorisation & highlight key information
+#### :memo: Categorisation & highlight key information
 
 Card/colour can be used to categorised and differentiate sections a trading/order review screen, for example, the existing order review is cluttered with information from received token quantity to gas fee and trading fee.
 
@@ -68,6 +68,8 @@ Payment and transaction history is a critical aspect of crypto trading. Using co
 
 Chain/Account is especially important for multi-chain swap. A consistent behaviour of switching account/chain ensures that users can easily switch between different chain/accounts. Using its original chain/token colour can help easily to differentiate quickly. This approach is especially effective in dApps where users usually trade with their assets directly stored from their wallet.
 
+![)]({{ site.baseurl }}/images/oken_banner_1.png)
+*It contributes the portion of revenues with a multi-chain feature supported / Illustrated by kisscx.com/*
 
 ## Recap 
 
