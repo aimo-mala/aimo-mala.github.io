@@ -30,45 +30,45 @@ Too soon? Not if the 'pain point' has been known that's impossible to get the jo
 
 A well-designed UI layout can improve readability, address important information, and create a visually appealing user interface, hence, the strategic use of UI principles can: 
 
-#### :::tip Enhancing readability
+#### ::: Enhancing readability
 
 A typical trading screen contains a lot of data, from Token pricing and buy/sell quantity to real-time exchange rate and trading fee. The existing of trading screen is lacking of intuition, for example, the existing trading layout is horizontally that clashes with a user who usually navigating info vertically, so the revisit the trading layout is imperative.
 
 
-#### :::tip Building a visually appealing interface.
+#### ::: Building a visually appealing interface.
 
 An aesthetic UI can enhance user experience and encourage regular use. Harmonious colour schemes, and some basic laws that can help a user understand how trading works. This is especially important for crypto newcomers, for example, for existing wallet users can often see different colours on buttons, tooltips, modals etc across mobile and website, which can hamper for a user who usually trades across platform. 
 
 
-#### :memo: Categorisation & highlight key information
+#### ::: Categorisation & highlight key information
 
 Card/colour can be used to categorised and differentiate sections a trading/order review screen, for example, the existing order review is cluttered with information from received token quantity to gas fee and trading fee.
 
 
 ## Key components & guidelines
 
-#### Tokens 
+#### ::: Tokens 
 
 When designing the token section of your wallet, the main goal is to clearly present your assets and transaction history. Using cards with neutral background to contain related Token attributes, such as sell/buy quantity. For managing chain and transaction, using colour to present different types of transactions can be very helpful.
 
-#### Permit & approval
+#### ::: Permit & approval
 
 For permit & approval, the app can display a series of interactions through modals. Using progress indicator can help a user understand where they're at and what the next step is. A well-design conversation flow is critical here to avoid the confusion. 
 
-#### Fee
+#### ::: Fee
 
 Gas fees work as payment for network validators for processing transactions and securing blockchain. Using colour-code alerts/texts can represent the low/high trading metrics depending on trading complexity.
 
-#### Payment & transaction history
+#### ::: Payment & transaction history
 
 Payment and transaction history is a critical aspect of crypto trading. Using colour-coded messages, such as, pending, completed, failed can reduce cognitive load and quickly focus on the key information.
 
 
-#### Chain/Account 
+#### ::: Chain/Account 
 
 Chain/Account is especially important for multi-chain swap. A consistent behaviour of switching account/chain ensures that users can easily switch between different chain/accounts. Using its original chain/token colour can help easily to differentiate quickly. This approach is especially effective in dApps where users usually trade with their assets directly stored from their wallet.
 
-![)]({{ site.baseurl }}/images/oken_banner_1.png)
+![)]({{ site.baseurl }}/images/token_banner_1.png)
 *It contributes the portion of revenues with a multi-chain feature supported / Illustrated by kisscx.com/*
 
 ## Recap 
