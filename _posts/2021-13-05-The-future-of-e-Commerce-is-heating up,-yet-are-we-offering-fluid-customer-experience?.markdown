@@ -14,10 +14,6 @@ Each startup wants to ~~scale up~~ and generate more revenues. The foundation of
 
 > When a comprehensive array of services options have been offered, it also made customer experiences more time-consuming, fragmented and harder to navigate.
 
-![)]({{ site.baseurl }}/images/b_wi_4.png)
-*Wireframing your concept in Sketch (example: Mobile Seller User Interface)*
-
-
 
 ##  Key metrics 
 

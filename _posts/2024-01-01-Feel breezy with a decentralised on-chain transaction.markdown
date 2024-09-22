@@ -69,6 +69,11 @@ Payment and transaction history is a critical aspect of crypto trading. Using co
 Chain/Account is especially important for multi-chain swap. A consistent behaviour of switching account/chain ensures that users can easily switch between different chain/accounts. Using its original chain/token colour can help easily to differentiate quickly. This approach is especially effective in dApps where users usually trade with their assets directly stored from their wallet.
 
 
+
+![)]({{ site.baseurl }}/images/b_wi_4.png)
+*Wireframing your concept in Sketch (example: Mobile Seller User Interface)*
+
+
 ## Recap 
 
 These UI principles plays a vital role in the UIUX of the effective web3.0 app. This improves readability, pays attention to the highlighted information, and effectively delivers messages. With this practice can turn the complex data into clear and actionable information, more importantly, a clear UI can help the users learn quickly and feeling not lost in the crypto space.
