@@ -70,9 +70,6 @@ Chain/Account is especially important for multi-chain swap. A consistent behavio
 
 
 
-![)]({{ site.baseurl }}/images/b_wi_4.png)
-*Wireframing your concept in Sketch (example: Mobile Seller User Interface)*
-
 
 ## Recap 
 
