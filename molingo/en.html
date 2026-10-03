@@ -160,12 +160,18 @@
 
   <!-- STUDENTS -->
   <section id="students" class="wrap">
-    <div class="section-head reveal">
-      <span class="eyebrow">Students</span>
-      <h2>What learning with us sounds like</h2>
+    <div class="students-head">
+      <div class="section-head reveal">
+        <span class="eyebrow">Students</span>
+        <h2>What learning with us sounds like</h2>
+      </div>
+      <div class="story-nav reveal">
+        <button type="button" data-dir="-1" aria-label="Previous story">←</button>
+        <button type="button" data-dir="1" aria-label="Next story">→</button>
+      </div>
     </div>
   </section>
-  <div class="marquee reveal" aria-label="Student stories">
+  <div class="marquee reveal" tabindex="0" aria-label="Student stories">
     <div class="marquee-track">
       <figure class="story" style="--bg:var(--cream)">
         <blockquote>"Creative, patient, and the most fun teacher I've had. I learn at my own pace."</blockquote>
@@ -234,13 +240,69 @@
   // close mobile menu after choosing a link
   document.querySelectorAll('.menu-panel a').forEach(a => a.addEventListener('click', () => a.closest('details').open = false));
 
-  // student stories: duplicate the set once for a seamless loop
-  const track = document.querySelector('.marquee-track');
-  [...track.children].forEach(card => {
+  // student stories: slow continuous slide + swipe/drag + arrows
+  const reel = document.querySelector('.marquee');
+  const track = reel.querySelector('.marquee-track');
+  [...track.children].forEach(card => {            // second set for a seamless loop
     const copy = card.cloneNode(true);
-    copy.classList.add('dup');
     copy.setAttribute('aria-hidden', 'true');
     track.appendChild(copy);
+  });
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const DRIFT = reduce ? 0 : 30;                   // px per second
+  let pos = 0, vel = DRIFT, hover = false, drag = null, glide = null, last = performance.now();
+  const loopWidth = () => track.children[track.children.length / 2].offsetLeft;
+  const step = () => track.querySelector('.story').offsetWidth + 16;
+
+  function frame(now) {
+    const dt = Math.min((now - last) / 1000, 0.05); last = now;
+    if (!drag) {
+      if (glide) {                                 // arrow press: ease to the next card
+        pos += (glide - pos) * Math.min(1, dt * 8);
+        if (Math.abs(glide - pos) < 0.5) { pos = glide; glide = null; }
+      } else {                                     // ease back toward the slow drift
+        const target = hover ? 0 : DRIFT;
+        vel += (target - vel) * Math.min(1, dt * 2.5);
+        pos += vel * dt;
+      }
+    }
+    const w = loopWidth();
+    if (pos >= w) { pos -= w; if (glide !== null) glide -= w; if (drag) drag.start -= w; }
+    if (pos < 0)  { pos += w; if (glide !== null) glide += w; if (drag) drag.start += w; }
+    track.style.transform = `translate3d(${-pos}px,0,0)`;
+    requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+
+  reel.addEventListener('pointerdown', e => {
+    drag = { x: e.clientX, start: pos, lastX: e.clientX, lastT: performance.now(), v: 0, moved: false };
+    glide = null;
+    reel.setPointerCapture(e.pointerId);
+  });
+  reel.addEventListener('pointermove', e => {
+    if (!drag) return;
+    if (Math.abs(e.clientX - drag.x) > 4 && !drag.moved) { drag.moved = true; reel.classList.add('dragging'); }
+    pos = drag.start - (e.clientX - drag.x);
+    const t = performance.now();
+    if (t > drag.lastT) drag.v = -(e.clientX - drag.lastX) / ((t - drag.lastT) / 1000);
+    drag.lastX = e.clientX; drag.lastT = t;
+  });
+  const release = () => {
+    if (!drag) return;
+    vel = Math.max(-2500, Math.min(2500, drag.v || 0));   // flick momentum, then drift again
+    drag = null; reel.classList.remove('dragging');
+  };
+  reel.addEventListener('pointerup', release);
+  reel.addEventListener('pointercancel', release);
+  reel.addEventListener('mouseenter', () => hover = true);
+  reel.addEventListener('mouseleave', () => hover = false);
+  reel.addEventListener('dragstart', e => e.preventDefault());
+
+  const nudge = dir => { const s = step(); glide = (Math.round(pos / s) + dir) * s; vel = 0; };
+  document.querySelectorAll('[data-dir]').forEach(b => b.addEventListener('click', () => nudge(+b.dataset.dir)));
+  reel.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight') { nudge(1); e.preventDefault(); }
+    if (e.key === 'ArrowLeft') { nudge(-1); e.preventDefault(); }
   });
 
   // reveal on scroll
